@@ -1,0 +1,14 @@
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\chromedriver.exe
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\chromedriver-license.txt
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\Handlenium.dll
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\Handlenium.pdb
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\WebDriver.dll
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\WebDriver.Support.dll
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\ThoughtWorks.Selenium.Core.xml
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\WebDriver.xml
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\bin\Debug\WebDriver.Support.xml
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\obj\Debug\Handlenium.dll
+c:\users\camilacardoso\documents\visual studio 2015\Projects\Handlenium\Handlenium\obj\Debug\Handlenium.pdb
