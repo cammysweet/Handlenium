@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlenium", "Handlenium\Handlenium.csproj", "{0857DDF5-3E6E-463A-84F6-021A88FFB272}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlenium.Test", "Handlenium.Test\Handlenium.Test.csproj", "{09A2BBBD-7D87-4926-930C-4188671C7516}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{0857DDF5-3E6E-463A-84F6-021A88FFB272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0857DDF5-3E6E-463A-84F6-021A88FFB272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0857DDF5-3E6E-463A-84F6-021A88FFB272}.Release|Any CPU.Build.0 = Release|Any CPU
-		{09A2BBBD-7D87-4926-930C-4188671C7516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{09A2BBBD-7D87-4926-930C-4188671C7516}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{09A2BBBD-7D87-4926-930C-4188671C7516}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{09A2BBBD-7D87-4926-930C-4188671C7516}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
